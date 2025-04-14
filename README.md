@@ -36,6 +36,7 @@ OpenAI GPT를 이용해 과목별로 공부 시간과 일정을 생성해줘요.
 
 ```bash
 python schedule_generator.py
+```
 
 ## 만든 사람
 - Hong-Jin-Seo (https://github.com/Hong-Jin-seo/)
