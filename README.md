@@ -1,6 +1,4 @@
 # smart-study-bot
-A simple schedulebot using OpenAI
-# smart-study-bot
 
 AI를 활용한 스마트 공부 스케줄러 봇!  
 OpenAI GPT를 이용해 과목별로 공부 시간과 일정을 생성해줘요.
